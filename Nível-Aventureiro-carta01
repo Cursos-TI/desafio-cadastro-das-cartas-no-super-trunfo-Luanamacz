@@ -19,7 +19,7 @@ int main() {
     printf("Estado: \n");
     scanf("%s", &Estado);
 
-    printf("Codigo da carta: A02 \n");
+    printf("Codigo da carta: A01 \n");
     scanf("%d", &Codigo[0]);
 
     printf("Nome da Cidade: São Paulo \n");
