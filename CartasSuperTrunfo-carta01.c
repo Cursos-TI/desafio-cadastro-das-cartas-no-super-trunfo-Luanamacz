@@ -1,10 +1,5 @@
 
-/*Fiz os código conforme pedido, no Terminal saiu correto.Porém está
-acontecendo um problema no "PROBLEMAS". Tentei pesquisar o que estava acontecendo
-e não consegui solucionar...
-Fiz as duas cartas como pedido.
 
-*/
 #include <stdio.h>
 
 int main(){
